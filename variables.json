@@ -1,0 +1,4 @@
+{
+	{"value": "weight", "label": "Weight (g)"},
+	{"value": "heigth", "label": "Height (cm)"},
+}
