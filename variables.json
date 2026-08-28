@@ -1,4 +1,1 @@
-{
-	{"value": "weight", "label": "Weight (g)"},
-	{"value": "heigth", "label": "Height (cm)"}
-}
+{{"value": "weight", "label": "Weight (g)"},{"value": "heigth", "label": "Height (cm)"}}
